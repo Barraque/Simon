@@ -2,7 +2,7 @@ Travail accompli :
 
 	Nous avons bien apprecié le projet, il faudrait meme instaurer plus de travaux de ce type car apprendre par le projet est une des meilleures facons 	d'apprendre et d'acquerir de l'experience (philosophie de nous).
 
-	Fonction réalisée par Valentin :
+	Fonction réalisée par Valouz :
 
 		- mini_ecran_noir
 
@@ -36,7 +36,7 @@ Travail accompli :
 
 	J'ai fait la moitié de la fonction perdu.
 
-	Fonction réalisée par Louis:
+	Fonction réalisée par Barraque:
 	   
 		- lecture_tab
 
@@ -64,7 +64,7 @@ Travail accompli :
 Problème rencontrés :
 
 
-	Valentin :
+	Valouz :
 
 	J’ai eu peu de problème seul. La plupart des problèmes rencontrés étaient sur les fonctions où Louis et moi travaillons ensemble.
 
@@ -72,7 +72,7 @@ Problème rencontrés :
 
 	J’ai également au un problème pour la fonction permettant de recommencer la partie. Ayant commencé à travailler seul dessus, j’ai réussi à faire fonctionner le jeu 2 fois de suite puis une fois perdu une seconde fois, plus aucune action n’était possible. Louis a donc travaillé par la suite dessus et à su résoudre le problème.
 
-	Louis:
+	Barraque:
 
 	Je n' ai pas vraiment rencontrée de grande difficulté dans le projet, je dirais plutôt que j ai perdu du temps. La plus grosse perte de temps pour moi à été la compréhension de certaines fonctions plus precisement des fonction Time et de resoudre le bug de recommencement de la partie (niveau algorithme).
 	J ai trouve que le projet était plutôt simple à faire mais le fait de rajouter de + en + de fonction l'a commencer a le rendre plus compliqué.
